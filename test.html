@@ -1,0 +1,16 @@
+<html>
+<head><title>TiDa AR測試</title>
+ <script src="//g.alicdn.com/tmapp/tida/3.2.76/tida.js?appkey=24730447"></script>
+</head>
+<body>
+	<script>
+		function MyFunction()
+		{
+		 Tida.AR.scanOpenCamera({}, function(result) {
+		console.log("AR.scanOpenCamera success：" , result);
+		})
+		}
+	</script>
+	<button onclick="MyFunction">开启摄像头</button>
+</body>
+</html>
