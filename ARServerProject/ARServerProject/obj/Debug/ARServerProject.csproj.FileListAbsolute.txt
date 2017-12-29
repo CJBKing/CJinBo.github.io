@@ -1,0 +1,18 @@
+E:\VSProjects\ARServerProject\ARServerProject\obj\Debug\ARServerProject.csprojResolveAssemblyReference.cache
+D:\Photon Server\deploy\ARServer\bin\ARServerProject.dll
+D:\Photon Server\deploy\ARServer\bin\ARServerProject.pdb
+E:\VSProjects\ARServerProject\ARServerProject\obj\Debug\ARServerProject.dll
+E:\VSProjects\ARServerProject\ARServerProject\obj\Debug\ARServerProject.pdb
+D:\Photon Server\deploy\ARServer\bin\log4net.config
+D:\Photon Server\deploy\ARServer\bin\ARServerProject.dll.config
+G:\VSProject\ARServerProject\ARServerProject\obj\Debug\ARServerProject.dll
+G:\VSProject\ARServerProject\ARServerProject\obj\Debug\ARServerProject.pdb
+E:\PhotoServer\deploy\ARServer12-26\bin\log4net.config
+E:\PhotoServer\deploy\ARServer12-26\bin\ARServerProject.dll.config
+E:\PhotoServer\deploy\ARServer12-26\bin\ARServerProject.dll
+E:\PhotoServer\deploy\ARServer12-26\bin\ARServerProject.pdb
+G:\VSProject\ARServerProject\ARServerProject\obj\Debug\ARServerProject.csprojResolveAssemblyReference.cache
+E:\PhotoServer\deploy\ARServerProject\bin\log4net.config
+E:\PhotoServer\deploy\ARServerProject\bin\ARServerProject.dll.config
+E:\PhotoServer\deploy\ARServerProject\bin\ARServerProject.dll
+E:\PhotoServer\deploy\ARServerProject\bin\ARServerProject.pdb

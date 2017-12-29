@@ -1,0 +1,37 @@
+{
+  "infoList": [
+   {
+      "panelTypeString": "Register",
+      "path": "UIPanel/RegisterPanel"
+    },
+    {
+      "panelTypeString": "Start",
+      "path": "UIPanel/StartPanel"
+    },
+   
+    {
+      "panelTypeString": "Message",
+      "path": "UIPanel/MessagePanel"
+    },
+	{
+		"panelTypeString":"Scanner",
+		"path":"UIPanel/ScannerPanel"
+	},
+	{
+		"panelTypeString":"StartMenu",
+		"path":"UIPanel/StartMenuPanel"
+	},
+	{
+		"panelTypeString":"HeroList",
+		"path":"UIPanel/HeroListPanel"
+	},        
+	{
+		"panelTypeString":"AboutHero",
+		"path":"UIPanel/AboutHeroPanel"
+	},
+	{
+		"panelTypeString":"SelectHero",
+		"path":"UIPanel/SelectHeroPanel"
+	}      
+  ]  
+}  
